@@ -1,5 +1,5 @@
 # Creative Bakery landing page
-- [DEMO LINK](https://MabuzaM.github.io/layout_creativeBakery/)
+- [DEMO LINK](https://MabuzaM.github.io/https://github.com/MabuzaM/Creative-Bakery-Landing-Page/)
 
 This is a responsive Creative Bakery landing page implemented as a Mate academy project. I implemented this page following the figma desin in the link below.
 - [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
